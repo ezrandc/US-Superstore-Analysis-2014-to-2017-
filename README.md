@@ -1,5 +1,7 @@
 # US Superstore Analysis (2014 to 2017)
 
+[US Superstore dataset](https://github.com/ezrandc/US-Superstore-Analysis-2014-to-2017-/blob/a3e35543be45ae1fe2d59514e8e0e05158215e67/US%20Superstore%20data.csv)
+
 ## Executive Summary
 
 This project analyses the US Superstore dataset (Kaggle) containing four years of transactional sales data (2014–2017) across products, customers, cities, and discount structures. Using PostgreSQL (SQL) for data preparation and Power BI (DirectQuery) for reporting, the goal was to uncover what drives profitability, particularly the impact of discounting behavior, with a simplified model on how changes in pricing strategy could improve performance.
