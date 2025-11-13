@@ -1,6 +1,6 @@
 # US Superstore Analysis (2014 to 2017)
 
-[US Superstore dataset](https://github.com/ezrandc/US-Superstore-Analysis-2014-to-2017-/blob/a3e35543be45ae1fe2d59514e8e0e05158215e67/US%20Superstore%20data.csv)
+Dataset used: [US Superstore dataset](https://github.com/ezrandc/US-Superstore-Analysis-2014-to-2017-/blob/a3e35543be45ae1fe2d59514e8e0e05158215e67/US%20Superstore%20data.csv)
 
 ## Executive Summary
 
