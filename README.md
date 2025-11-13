@@ -26,15 +26,11 @@ This page provides an executive-level snapshot of company performance from 2014â
 
 1. KPI Cards (Automated with DAX)
 
-Revenue (2017): $733.2K
-
-YoY Growth: +20.4%
-
-Profit (2017): $93.4K
-
-Profit Margin: 12.7%
-
-Customer Retention: 87.5%
+- Revenue (2017): $733.2K
+- YoY Growth: +20.4%
+- Profit (2017): $93.4K
+- Profit Margin: 12.7%
+- Customer Retention: 87.5%
 
 These KPIs are dynamically calculated using DAX to always show the latest year.
 
