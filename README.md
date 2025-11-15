@@ -24,7 +24,7 @@ The insights were shaped by an SQL-based Exploratory Data Analysis (EDA), ensuri
 
 This page provides an executive-level snapshot of company performance from 2014–2017. It sets the financial context before diving into profitability drivers.
 
-1. KPI Cards (Automated with DAX)
+**1. KPI Cards (Automated with DAX)**
 
 - Revenue (2017): $733.2K
 - YoY Growth: +20.4%
