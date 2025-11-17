@@ -15,7 +15,7 @@ A [Power BI dashboard](https://github.com/ezrandc/US-Superstore-Analysis-2014-to
 
 | Page 1: Business Performance Overview | Page 2: Profit Analysis & Discount Impact |
 | :---: | :---: |
-| ![](https://github.com/ezrandc/US-Superstore-Analysis-2014-to-2017-/blob/cea104daa42ce0ecb36f6de8d4ea245f1e4a1fdb/assets/Page%201%20-%20Business%20Performance%20Overview.png) | ![](https://github.com/ezrandc/US-Superstore-Analysis-2014-to-2017-/blob/a8b4f0dcd17de635dffa9bcf4ebf1d8f789097e4/assets/Page%202%20-%20Profit%20Analysis.png) |
+| ![](https://github.com/ezrandc/US-Superstore-Analysis-2014-to-2017-/blob/74d7c8a874dfb69386a4459fd3335e8cd7cac255/assets/Dashboard%20-%20Page%201/Page%201%20-%20Business%20Performance%20Overview.png) | ![](https://github.com/ezrandc/US-Superstore-Analysis-2014-to-2017-/blob/3b6376bad787a5f3136a0ea9b5d092b418fcd1c4/assets/Dashboard%20-%20Page%202/Page%202%20-%20Profit%20Analysis.png) |
 
 The insights were shaped by an SQL-based Exploratory Data Analysis (EDA), ensuring a rigorous analytical foundation.
 
@@ -26,7 +26,7 @@ Page 1 provides an executive-level snapshot of company performance from 2014–2
 **1. KPI Cards (Automated with DAX)**
 
 <img 
-  src="https://raw.githubusercontent.com/ezrandc/US-Superstore-Analysis-2014-to-2017-/2262f1493cec2695920d35f1fc3bc49605ec266d/assets/1.%20KPI%20cards.png" 
+  src="https://raw.githubusercontent.com/ezrandc/US-Superstore-Analysis-2014-to-2017-/74d7c8a874dfb69386a4459fd3335e8cd7cac255/assets/Dashboard%20-%20Page%201/1.%20KPI%20cards.png" 
   width="600">
 
 - Revenue (2017): $733.2K
@@ -43,7 +43,7 @@ Revenue and profit show strong growth, while retention rates steadily improved f
 **2. Revenue & Profit Trends (2014–2017)**
 
 <img
-  src="https://raw.githubusercontent.com/ezrandc/US-Superstore-Analysis-2014-to-2017-/2262f1493cec2695920d35f1fc3bc49605ec266d/assets/2.%20Revenue%20%26%20Profit%20Chart.png"
+  src="https://raw.githubusercontent.com/ezrandc/US-Superstore-Analysis-2014-to-2017-/74d7c8a874dfb69386a4459fd3335e8cd7cac255/assets/Dashboard%20-%20Page%201/2.%20Revenue%20%26%20Profit%20Chart.png"
   width="600">
 
 - Revenue rising from $484K to $733K (10.9% 4-year CAGR)
@@ -55,7 +55,7 @@ While revenue scales steadily, margin fluctuations (low in 2014, declining in 20
 **3. Customer Retention Rate by Year**
 
 <img
-  src="https://raw.githubusercontent.com/ezrandc/US-Superstore-Analysis-2014-to-2017-/08493ab86ffa5732622586be993ad0e718c23b5f/assets/3.%20Customer%20Retention%20Chart.png"
+  src="https://raw.githubusercontent.com/ezrandc/US-Superstore-Analysis-2014-to-2017-/74d7c8a874dfb69386a4459fd3335e8cd7cac255/assets/Dashboard%20-%20Page%201/3.%20Customer%20Retention%20Chart.png"
   width="600">
 
 Retention increased from 73.4% to 87.5% over the period.
@@ -68,7 +68,7 @@ Steadily rising retention shows the customer base is getting stronger; margin is
 **4. Top 5 Revenue Cities**
 
 <img
-  src="https://raw.githubusercontent.com/ezrandc/US-Superstore-Analysis-2014-to-2017-/08493ab86ffa5732622586be993ad0e718c23b5f/assets/4.%20Top%205%20Revenue%20by%20City%20in%202017%20Chart.png"
+  src="https://raw.githubusercontent.com/ezrandc/US-Superstore-Analysis-2014-to-2017-/74d7c8a874dfb69386a4459fd3335e8cd7cac255/assets/Dashboard%20-%20Page%201/4.%20Top%205%20Revenue%20by%20City%20in%202017%20Chart.png"
   width="600">
 
 - Top contributors: New York (32%), Seattle (21%), Los Angeles, Philadelphia, San Francisco
@@ -85,7 +85,7 @@ Steadily rising retention shows the customer base is getting stronger; margin is
 **5. Product Category Mix**
 
 <img
-  src="https://raw.githubusercontent.com/ezrandc/US-Superstore-Analysis-2014-to-2017-/08493ab86ffa5732622586be993ad0e718c23b5f/assets/5.%20Product%20Category%20Mix%20Chart.png"
+  src="https://raw.githubusercontent.com/ezrandc/US-Superstore-Analysis-2014-to-2017-/74d7c8a874dfb69386a4459fd3335e8cd7cac255/assets/Dashboard%20-%20Page%201/5.%20Product%20Category%20Mix%20Chart.png"
   width="600">
 
 - Revenue mix is well-balanced across all categories (each ~30–37%).
