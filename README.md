@@ -35,4 +35,46 @@ This page provides an executive-level snapshot of company performance from 2014�
 These KPIs are dynamically calculated using DAX to always show the latest year.
 
 📌 Insight:
-Revenue and profit show strong growth, while retention rates steadily improved from 73% → 87.5%, indicating healthier customer loyalty.
+Revenue and profit show strong growth, while retention rates steadily improved from 73.4% to 87.5%, indicating healthier customer loyalty.
+
+**2. Revenue & Profit Trends (2014–2017)**
+
+A column & line combo chart visualizes:
+
+- Revenue rising from $484K to $733K (10.9% 4-year CAGR)
+- Margin stabilising around c.13% in the last 3 years, with a slight dip in 2017
+
+📌 Insight:
+While revenue scales steadily, margin fluctuations (low in 2014, declining in 2017) reveal underlying pricing and discount challenges uncovered in Page 2.
+
+**3. Customer Retention Rate by Year**
+
+Retention increased from 73.4% to 87.5% over the period.
+
+SQL was modified to ensure retention reflects customers retained into the following year.
+
+📌 Insight:
+Steadily rising retention shows the customer base is getting stronger; margin issues are therefore more likely driven by pricing and discounting decisions than by churn.
+
+**4. Top 5 Revenue Cities**
+
+- Top contributors: New York (32%), Seattle (21%), Los Angeles, Philadelphia, San Francisco
+- Combined, these cities contribute 25.2% of 2017 revenue, down 6.4% YoY, indicating diversification
+- Philadelphia anomaly:
+  - 4th highest revenue city in 2017
+  - Top loss-making city over 4 years
+
+📌 Insight:
+- High sales do not automatically translate to profit.
+- Philadelphia likely suffers from heavy discounting, logistics issues, or channel inefficiencies.
+
+**5. Product Category Mix**
+
+A 100% stacked bar chart shows a balanced annual revenue mix:
+
+- Furniture: 30–37%
+- Office Supplies: c.33%
+- Technology: c.30%
+
+📌 Insight:
+Despite stable mix, Furniture significantly underperforms in margin, later confirmed in Page 2 analysis.
