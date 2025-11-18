@@ -23,24 +23,18 @@ The insights were shaped by an SQL-based [Exploratory Data Analysis (EDA)](https
 
 Page 1 provides an executive-level snapshot of company performance from 2014–2017. It sets the financial context before diving into profitability drivers.
 
-**1. KPI Cards (Automated with DAX)**
+### 1. KPI Cards (Automated with DAX)
 
 <img 
   src="https://raw.githubusercontent.com/ezrandc/US-Superstore-Analysis-2014-to-2017-/c7a906afcd3d712c8237cd84f062102faa00f8c3/Dashboard/Images/Dashboard%20-%20Page%201/1.%20KPI%20cards.png" 
   width="600">
-
-- Revenue (2017): $733.2K
-- YoY Growth: +20.4%
-- Profit (2017): $93.4K
-- Profit Margin: 12.7%
-- Customer Retention: 87.5%
 
 These KPIs are dynamically calculated using DAX to always show the latest year.
 
 📌 Insight:
 Revenue and profit show strong growth, while retention rates steadily improved from 73.4% to 87.5%, indicating healthier customer loyalty, improved post-sales engagement, or enhanced customer value perception
 
-**2. Revenue & Profit Trends (2014–2017)**
+### 2. Revenue & Profit Trends (2014–2017)
 
 <img
   src="https://raw.githubusercontent.com/ezrandc/US-Superstore-Analysis-2014-to-2017-/c7a906afcd3d712c8237cd84f062102faa00f8c3/Dashboard/Images/Dashboard%20-%20Page%201/2.%20Revenue%20%26%20Profit%20Chart.png"
@@ -52,7 +46,7 @@ Revenue and profit show strong growth, while retention rates steadily improved f
 📌 Insight:
 While revenue scales steadily, margin fluctuations (low in 2014, declining in 2017) reveal underlying pricing and discount challenges uncovered in Page 2.
 
-**3. Customer Retention Rate by Year**
+### 3. Customer Retention Rate by Year
 
 <img
   src="https://raw.githubusercontent.com/ezrandc/US-Superstore-Analysis-2014-to-2017-/c7a906afcd3d712c8237cd84f062102faa00f8c3/Dashboard/Images/Dashboard%20-%20Page%201/3.%20Customer%20Retention%20Chart.png"
@@ -65,7 +59,7 @@ SQL was modified to ensure retention reflects customers retained into the follow
 📌 Insight:
 Steadily rising retention shows the customer base is getting stronger; margin issues are therefore more likely driven by pricing and discounting decisions than by churn.
 
-**4. Top 5 Revenue Cities**
+### 4. Top 5 Revenue Cities
 
 <img
   src="https://raw.githubusercontent.com/ezrandc/US-Superstore-Analysis-2014-to-2017-/c7a906afcd3d712c8237cd84f062102faa00f8c3/Dashboard/Images/Dashboard%20-%20Page%201/4.%20Top%205%20Revenue%20by%20City%20in%202017%20Chart.png"
@@ -82,7 +76,7 @@ Steadily rising retention shows the customer base is getting stronger; margin is
 - Revenue dependence on key cities is decreasing — a sign of successful market expansion, though potential underperformance in major markets should be monitored.
 - Philadelphia likely suffers from heavy discounting, logistics issues, or channel inefficiencies.
 
-**5. Product Category Mix**
+### 5. Product Category Mix
 
 <img
   src="https://raw.githubusercontent.com/ezrandc/US-Superstore-Analysis-2014-to-2017-/c7a906afcd3d712c8237cd84f062102faa00f8c3/Dashboard/Images/Dashboard%20-%20Page%201/5.%20Product%20Category%20Mix%20Chart.png"
@@ -120,7 +114,7 @@ This page answers the core business question:
 Revenue Concentration vs. Margin Erosion by Discount Bin
 
 <img
-  src="https://raw.githubusercontent.com/ezrandc/US-Superstore-Analysis-2014-to-2017-/0d667b64ee2d5f1f57c44543fe0ba9e34d990518/Dashboard/Images/Dashboard%20-%20Page%202/1.1%20Product%20Category%20Analysis%20Chart.png"
+  src="https://raw.githubusercontent.com/ezrandc/US-Superstore-Analysis-2014-to-2017-/d481d1337d965f87f8e0c9ce11b0be834007dbae/Dashboard/Images/Dashboard%20-%20Page%202/1.2%20Revenue%20%26%20Avg%20Margin%20by%20Discount%20Bin.png"
   width="500">
 
 - Most revenue comes from 0–30% discount bins and margins turn negative beyond 30%
