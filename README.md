@@ -175,7 +175,7 @@ Profit vs. Discounts
 - Total profit could increase from $286.4K to $337.7K, (+18%), with overall profit margin improving from 12.5% to 15.0%
 
 **Why this estimate should be considered optimistic:**
-- Furniture example (key driver of the optimism):
+- Furniture example:
   - c.26% of all Furniture revenue comes from orders discounted above 30%, meaning a large share of Furniture sales depend on heavy discounting.
   - These discounts may be required to clear:
     - Aged or slow-moving stock
