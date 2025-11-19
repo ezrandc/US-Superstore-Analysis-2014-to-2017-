@@ -173,6 +173,28 @@ Profit vs. Discounts
 
 - A “what-if” SQL model simulated capping discounts at 30% across all orders
 - Total profit could increase from $286.4K to $337.7K, (+18%), with overall profit margin improving from 12.5% to 15.0%
-- This estimate should be considered optimistic - Furniture sales with discounts above 30% still account for approximately 26% of total Furniture revenue, suggesting that part of these discounts may have been strategic (old stock, damaged goods, clearance, seasonality)
-- Further analysis is recommended on inventory optimisation and pricing structure to determine whether these losses were avoidable or required to sustain sales turnover
-- The dataset does not specify cost components that make up Profit (e.g., COGS, shipping, freight, packaging, overhead). Therefore, this scenario model is a high-level approximation of discount impact, not a full cost-based profitability simulation. More granular operational data would be needed for a fully accurate assessment.
+
+**Why this estimate should be considered optimistic:**
+- Furniture example (key driver of the optimism):
+  - c.26% of all Furniture revenue comes from orders discounted above 30%, meaning a large share of Furniture sales depend on heavy discounting.
+  - These discounts may be required to clear:
+    - Aged or slow-moving stock
+    - Overstock from earlier quarters
+    - Seasonal products
+    - Damaged/open-box items
+  - Reducing these discounts might reduce volume or prevent inventory turnover.
+- Profit is net profit, but the dataset does not show how it is derived:
+  - The dataset includes final profit per transaction, but does not break down:
+    - Product cost (COGS)
+    - Shipping / delivery cost
+    - Warehousing / handling
+    - Marketing or channel fees
+    - Operational overhead allocations
+  - This means we cannot tell whether high discounts were offset by lower costs, bundled shipments, or operational efficiencies.
+- As a result, the simulation is a **high-level financial estimate**, not a full operational margin analysis.
+- More detailed data is required to assess feasibility of capping discounts:
+    - Inventory ageing and turnover
+    - SKU-level cost structures
+    - Demand elasticity
+    - Logistics cost variation by region
+    - Competitive pricing pressures
