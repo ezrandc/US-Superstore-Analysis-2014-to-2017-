@@ -146,13 +146,12 @@ Profit vs. Discounts
 **2.2 Location Analysis**
 
 <img
-  src="https://raw.githubusercontent.com/ezrandc/US-Superstore-Analysis-2014-to-2017-/0d667b64ee2d5f1f57c44543fe0ba9e34d990518/Dashboard/Images/Dashboard%20-%20Page%202/2.2%20Location%20Analysis.png"
+  src="https://raw.githubusercontent.com/ezrandc/US-Superstore-Analysis-2014-to-2017-/f41f830a37b42591b17ed60a2c2f9dcc34933d22/Dashboard/Images/Dashboard%20-%20Page%202/2.2%20Location%20Analysis1.png"
   width="500">
 
 - 116 cities (c.22%) were loss-making
 - Top loss-making cities (Philadelphia - Top 5 revenue overall, Houston, San Antonio):
-  - Avg discounts >30%, aligning with excessive discounting patterns
-  - Exception: Burlington - loss-making despite low discounts suggests logistics, demand, or operational inefficiencies
+  - Weighted average discounts are around 30% or more, aligning with excessive discounting patterns
  
 ### 3. Do discounts drive higher sales?
 
