@@ -9,7 +9,7 @@ VAR MaxYear =
         ALL('yearly_summary')
     )
 VAR CurrYear =
-    SELECTEDVALUE('yearly_summary'[year])
+    SELECTEDVALUE('yearly_summary'[year]) -- used MAX('yearly_summary'[year]) for product category mix
 RETURN
     IF(CurrYear >= MaxYear - 3, 1, 0)
 ```
