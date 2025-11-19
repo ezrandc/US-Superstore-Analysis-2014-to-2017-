@@ -4,8 +4,7 @@ WITH loss_making_cities AS (
         "City",
         ROUND(SUM("Sales")::numeric, 2) AS total_rev,
         ROUND(SUM("Profit")::numeric, 2) AS total_profit,
-        ROUND((SUM("Profit") / SUM("Sales"))::numeric, 2) AS profit_margin,
-        ROUND(AVG("Discount")::numeric, 2) AS avg_discount
+        ROUND((SUM("Profit") / SUM("Sales"))::numeric, 2) AS profit_margin
     FROM clean_data
     GROUP BY "City"
     HAVING SUM("Profit") < 0
