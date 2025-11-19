@@ -1,4 +1,4 @@
-### City Yoy Change
+### City Yoy Change DAX
 **Purpose: Measure to show YoY change of latest year's contribution from Top 5 cities vs previous year**
 ```
 YoY Change = 
