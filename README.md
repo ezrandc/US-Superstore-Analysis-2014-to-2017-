@@ -146,7 +146,7 @@ Profit vs. Discounts
 **2.2 Location Analysis**
 
 <img
-  src="https://raw.githubusercontent.com/ezrandc/US-Superstore-Analysis-2014-to-2017-/f41f830a37b42591b17ed60a2c2f9dcc34933d22/Dashboard/Images/Dashboard%20-%20Page%202/2.2%20Location%20Analysis.png"
+  src="https://raw.githubusercontent.com/ezrandc/US-Superstore-Analysis-2014-to-2017-/239766ef2238d4c4687d1bb5c3befe3968e110c6/Dashboard/Images/Dashboard%20-%20Page%202/2.2%20Location%20Analysis.png"
   width="500">
 
 - 116 cities (c.22%) were loss-making
