@@ -1,4 +1,4 @@
---Yearly Category Revenue Mix
+-- Yearly Category Revenue Mix
 SELECT
     "Category",
     EXTRACT(YEAR FROM ("Order Date")::date)::int AS year,
