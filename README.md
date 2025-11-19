@@ -172,6 +172,7 @@ Profit vs. Discounts
   width="500">
 
 - A “what-if” SQL model simulated capping discounts at 30% across all orders
-- Total profit could increase from $286.4K to $337.7K, representing a +18% uplift, and the overall profit margin improving from 12.5% to 15.0%
-- This estimate should be considered optimistic - Furniture sales with discounts above 30% still account for approximately 26% of total Furniture revenue, suggesting that part of these discounts may have been strategic or necessary to clear excess inventory
+- Total profit could increase from $286.4K to $337.7K, (+18%), with overall profit margin improving from 12.5% to 15.0%
+- This estimate should be considered optimistic - Furniture sales with discounts above 30% still account for approximately 26% of total Furniture revenue, suggesting that part of these discounts may have been strategic (old stock, damaged goods, clearance, seasonality)
 - Further analysis is recommended on inventory optimisation and pricing structure to determine whether these losses were avoidable or required to sustain sales turnover
+- The dataset does not specify cost components that make up Profit (e.g., COGS, shipping, freight, packaging, overhead). Therefore, this scenario model is a high-level approximation of discount impact, not a full cost-based profitability simulation. More granular operational data would be needed for a fully accurate assessment.
