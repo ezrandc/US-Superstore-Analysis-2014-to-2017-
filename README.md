@@ -15,7 +15,7 @@ A [Power BI dashboard](https://github.com/ezrandc/US-Superstore-Analysis-2014-to
 
 | Page 1: Business Performance Overview | Page 2: Profit Analysis & Discount Impact |
 | :---: | :---: |
-| ![](https://github.com/ezrandc/US-Superstore-Analysis-2014-to-2017-/blob/c7a906afcd3d712c8237cd84f062102faa00f8c3/Dashboard/Images/Dashboard%20-%20Page%201/Page%201%20-%20Business%20Performance%20Overview.png) | ![](https://github.com/ezrandc/US-Superstore-Analysis-2014-to-2017-/blob/c7a906afcd3d712c8237cd84f062102faa00f8c3/Dashboard/Images/Dashboard%20-%20Page%202/Page%202%20-%20Profit%20Analysis.png) |
+| ![](https://github.com/ezrandc/US-Superstore-Analysis-2014-to-2017-/blob/c7a906afcd3d712c8237cd84f062102faa00f8c3/Dashboard/Images/Dashboard%20-%20Page%201/Page%201%20-%20Business%20Performance%20Overview.png) | ![](https://github.com/ezrandc/US-Superstore-Analysis-2014-to-2017-/blob/639d582777977cf1548eb6ca11fc33a701195259/Dashboard/Images/Dashboard%20-%20Page%202/Page%202%20-%20Profit%20Analysis.png) |
 
 The insights were shaped by an SQL-based [Exploratory Data Analysis (EDA)](https://github.com/ezrandc/US-Superstore-Analysis-2014-to-2017-/blob/41020484ab16aa498ebec0a842b0580de9566b68/EDA/EDA.md), ensuring a rigorous analytical foundation.
 
