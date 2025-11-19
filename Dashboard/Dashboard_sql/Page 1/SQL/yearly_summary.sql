@@ -1,3 +1,4 @@
+--Yearly Summary
 WITH yearly_summary AS (
     SELECT
         EXTRACT(YEAR FROM ("Order Date")::date)::int AS year,
