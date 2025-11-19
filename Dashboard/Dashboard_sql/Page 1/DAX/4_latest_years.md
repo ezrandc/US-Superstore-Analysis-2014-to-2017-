@@ -9,7 +9,7 @@ VAR MaxYear =
         ALL('yearly_summary')
     )
 VAR CurrYear =
-    MAX('yearly_summary'[year])
+    SELECTEDVALUE('yearly_summary'[year])
 RETURN
     IF(CurrYear >= MaxYear - 3, 1, 0)
 ```
