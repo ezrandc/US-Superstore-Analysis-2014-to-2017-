@@ -85,10 +85,9 @@ Steadily rising retention shows the customer base is getting stronger; margin is
 - Revenue mix is well-balanced across all categories (each ~30–37%)
 - Furniture share declines from 36% to 29% between 2015–2017
 - Balanced mix suggests diversified revenue with no category over-concentration
-- However, similar revenue shares hide major margin differences, as seen in Page 2 - Company-wide margins improve as Furniture’s share decreases, hinting at structural unprofitability.
 
 📌 Insight:
-A stable category mix hides profitability issues — Furniture’s shrinking share aligns with rising profit margins, signalling it as the weakest category despite similar revenue contribution.
+Category mix alone does not fully explain changes in company-wide profitability. Profit drivers are explored in detail on Page 2.
 
 ## Page 2 - Profit Analysis
 
